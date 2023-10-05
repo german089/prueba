@@ -1,0 +1,16 @@
+.contenedor {
+    background-color: cadetblue;
+    width:100%; 
+  }
+
+  .lista {
+    background-color:gold;
+    width: 250px;
+    border-radius: 100px;
+  }
+  .flex{
+    display: flex;
+    gap: 20px;
+    align-content: flex-end;
+
+  }
